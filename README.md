@@ -1,2 +1,3 @@
-# evolution
-Evolutionary computing for algorithmic trading.
+# Evolutionary Computing
+
+Evolutionary computing applications in quant trading.
